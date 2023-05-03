@@ -1,5 +1,9 @@
 Live code:https://b966-34-68-147-218.ngrok-free.app/
 
+https://nbviewer.org/github/Keerthana-Ravichandran/Python-Simulation-on-Policy-Watch-No.7-/blob/main/Python_Simulation_on_Policy_Watch_No_7.ipynb
+
+#Click this link to view the colab notebook.
+
 # Deploying-Winning-Voter-Confidence-paper-as-Streamlit-app-in-colab-using-ngrok
 
 POLICY WATCH NO 7 :Winning Voter Confidence :
