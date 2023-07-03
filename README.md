@@ -1,4 +1,4 @@
-Live code:https://b966-34-68-147-218.ngrok-free.app/
+
 
 https://nbviewer.org/github/Keerthana-Ravichandran/Python-Simulation-on-Policy-Watch-No.7-/blob/main/Python_Simulation_on_Policy_Watch_No_7.ipynb
 
